@@ -8,7 +8,7 @@ if len(sys.argv)==3:
 else:
     script_name=sys.argv[0]
     weight=60
-    height=5.7
+    height=6
 
 
 
