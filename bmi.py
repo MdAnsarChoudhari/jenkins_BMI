@@ -1,5 +1,5 @@
 import sys
-if len(sys.argv) == 3:
+if len(sys.argv) == 2:
     script_name = sys.argv[0]
     weight = sys.argv[1]
     height = sys.argv[2]
