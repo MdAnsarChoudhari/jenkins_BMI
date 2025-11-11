@@ -8,9 +8,10 @@ else:
     weight = 60
     height = 170
     print("Invalid input using default values")
-    weight = float(weight)
-    height = float(height) / 100
-    bmi = weight / (height*height)
-    print("Weight", weight, "kg")
-    print("Height", height, "m")
-    print("BMI", bmi)
+    
+weight = float(weight)
+height = float(height) / 100
+bmi = weight / (height*height)
+print("Weight", weight, "kg")
+print("Height", height, "m")
+print("BMI", bmi)
