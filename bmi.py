@@ -15,4 +15,6 @@ else:
 bmi=weight/(height*height)
 
 print("Script Name : ",script_name)
+print("Weight",weight)
+print("Height",height)
 print("BMI ",bmi)
